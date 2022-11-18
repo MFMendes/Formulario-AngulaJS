@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #0d1117;
+}
+
+#cadastroForm {
+    border: 1px solid #30363d;
+    border-radius: 5px;
+
+    padding: 50px 30px;
+
+    background: #21262d;
+}
